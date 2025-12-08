@@ -1,0 +1,20 @@
+package ex_09_Switch;
+
+public class Lab091_JDK_13 {
+    public static void main(String[] args) {
+        int itemCode = 006;
+        switch(itemCode) {
+            case 001, 002, 005:
+                System.out.println("All of them are electronics"); //multiple criteria with same output
+                break;
+
+            case 003, 006, 007:
+                System.out.println("This is Mech");
+                break;
+            default:
+                System.out.println("None");
+        }
+
+
+    }
+}
