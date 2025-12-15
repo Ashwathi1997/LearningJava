@@ -18,11 +18,11 @@ public class Lab031_Char_Literal {
         char carriage_return = '\r';
 
         System.out.println("AshwathiMohanan");
-        System.out.println("Ashwathi"+new_line+"Mohanan");
+        System.out.println("Ashwathi" + new_line + "Mohanan");
         System.out.println("Ashwathi\nMohanan");
-        System.out.println("Ashwathi"+tab_line+"Mohanan");
-        System.out.println("Ashwathi"+back_space+"Mohanan");
-        System.out.println("Ashwathi"+carriage_return+"Mohanan");
+        System.out.println("Ashwathi" + tab_line + "Mohanan");
+        System.out.println("Ashwathi" + back_space + "Mohanan");
+        System.out.println("Ashwathi" + carriage_return + "Mohanan");
 
         char c10 = 'A';
         //ASCII, (limited numbers) - A->65

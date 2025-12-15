@@ -1,7 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lab021__Byte
-{
+public class Lab021__Byte {
     public static void main(String[] args) {
         byte age = 10;
 

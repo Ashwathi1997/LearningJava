@@ -7,11 +7,9 @@ public class Lab118_While_IQ {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number for factorial program");
         int n;
-        if(!sc.hasNextInt())
-        {
+        if (!sc.hasNextInt()) {
             System.out.println("Enter integer only");
-        }
-        else {
+        } else {
             n = sc.nextInt();
 
             int fact = 1;
@@ -19,16 +17,13 @@ public class Lab118_While_IQ {
                 fact = 1;
             }
             int i = n;
-            if (n < 0 || n > Integer.MAX_VALUE)
-            {
+            if (n < 0 || n > Integer.MAX_VALUE) {
                 System.out.println("Cannot execute as it is out of bound");
-            }
-            else
-            {
-            while (i >= 1) {
-                fact = fact * i;
-                i--;
-            }
+            } else {
+                while (i >= 1) {
+                    fact = fact * i;
+                    i--;
+                }
             }
             System.out.println(fact);
         }

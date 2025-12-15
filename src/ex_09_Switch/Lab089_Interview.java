@@ -4,8 +4,7 @@ public class Lab089_Interview {
     public static void main(String[] args) {
         int i = 100;
 
-        switch(i)
-        {
+        switch (i) {
             case 100:
                 System.out.println("100");
                 break;

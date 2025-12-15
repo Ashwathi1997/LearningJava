@@ -6,7 +6,8 @@ public class Lab124_Method_functions {
         //declare, definition
         name_of_the_function(); // calling function
     }
-    static void name_of_the_function(){ // defining function
+
+    static void name_of_the_function() { // defining function
         //this is block of code to b executed
         System.out.println("Hi there !");
     }

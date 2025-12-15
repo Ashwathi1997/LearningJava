@@ -8,8 +8,7 @@ public class Lab084_Real_Switch_Automation {
         System.out.println("Enter the browser");
         String browser = sc.next();
 
-        switch(browser)
-        {
+        switch (browser) {
             case "edge":
                 System.out.println("Starting Edge");
                 //..running the code within this

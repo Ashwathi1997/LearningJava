@@ -1,6 +1,5 @@
 package ex_02_Java_Practise_Tasks;
 
-import java.sql.Array;
 import java.util.Scanner;
 
 public class Lab020_Triangle_Classifier {
@@ -29,32 +28,19 @@ public class Lab020_Triangle_Classifier {
         System.out.println("Enter side 3 of the triangle");
         n3 = sc.nextInt();
 
-        if(n1 == n2)
-        {
-            if(n2 == n3)
-            {
+        if (n1 == n2) {
+            if (n2 == n3) {
                 System.out.println("Triangle is Equilateral");
-            }
-            else
-            {
+            } else {
                 System.out.println("Triangle is Isoceles");
             }
-        }
-        else
-        {
-            if(n2 == n3)
-            {
+        } else {
+            if (n2 == n3) {
                 System.out.println("Triangle is Isoceles");
-            }
-            else
-            {
+            } else {
                 System.out.println("Triangle is Scalene");
             }
         }
-
-
-
-
 
 
     }

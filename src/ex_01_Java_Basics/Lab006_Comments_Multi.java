@@ -1,7 +1,5 @@
 package ex_01_Java_Basics;
 
-import java.util.HashMap;
-
 public class Lab006_Comments_Multi {
     /*Name : Ash
     Roll No: 89

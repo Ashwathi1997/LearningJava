@@ -5,12 +5,9 @@ public class Lab077_If_P1 {
 
         String user_input = args[0];
         int age = Integer.parseInt(user_input);
-        if(age > 25)
-        {
+        if (age > 25) {
             System.out.println("Can go to Goa");
-        }
-        else
-        {
+        } else {
             System.out.println("Cannot go to Goa");
         }
     }

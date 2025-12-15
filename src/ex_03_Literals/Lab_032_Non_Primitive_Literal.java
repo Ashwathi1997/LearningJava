@@ -5,5 +5,5 @@ public class Lab_032_Non_Primitive_Literal {
         String name = "Ashwathi"; // string is bunch of char;
         int[] array_of_items = new int[10];    // Later will discuss
         //
-        }
+    }
 }

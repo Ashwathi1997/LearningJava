@@ -7,7 +7,7 @@ public class Lab023_Constants {
         System.out.println(a);
 
         final int b = 99;
-       // b=100;  -> value cannot be changed as its final variable
+        // b=100;  -> value cannot be changed as its final variable
 
         final float PI = 3.14f;
         final int a1 = 10;

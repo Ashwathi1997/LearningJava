@@ -9,6 +9,6 @@ public class Lab005_Comments {
 //        This is also a comment
 //        This is also a comment
 
-                System.out.println("Hello World");
+        System.out.println("Hello World");
     }
 }

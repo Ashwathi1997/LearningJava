@@ -4,7 +4,7 @@ public class Lab088_Interview {
     public static void main(String[] args) {
         long L = 100l;
 
-        switch((int)L) // long is allowed
+        switch ((int) L) // long is allowed
         {
 
         }

@@ -5,9 +5,8 @@ public class Lab104_ForLoop_3 {
         for (int i = -1; i > -10; i--) {
             System.out.println(i);
         }
-        int i =10;
-        for(;i>0;i--)
-        {
+        int i = 10;
+        for (; i > 0; i--) {
             System.out.println(i);
         }
     }

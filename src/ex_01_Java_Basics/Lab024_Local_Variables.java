@@ -3,7 +3,7 @@ package ex_01_Java_Basics;
 public class Lab024_Local_Variables {
     public static void main(String[] args) {
         byte b = 10;
-        short ss =10;
+        short ss = 10;
         int i = 10;
         char c = 'A';
         long phone = 9889099000L;

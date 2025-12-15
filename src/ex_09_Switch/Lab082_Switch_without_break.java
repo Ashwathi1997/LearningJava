@@ -7,11 +7,9 @@ public class Lab082_Switch_without_break {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number within 1 to 7");
 
-        if(sc.hasNextInt())
-        {
+        if (sc.hasNextInt()) {
             int day = sc.nextInt();
-            switch(day)
-            {
+            switch (day) {
                 case 1:
                     System.out.println("Sunday");// all the statement eill get executed
                 case 2:
@@ -30,8 +28,7 @@ public class Lab082_Switch_without_break {
                     System.out.println("Please Enter Integer within 1 to 7");
 
             }
-        }
-        else {
+        } else {
             System.out.println("Enter Integer within 1 to 7");
         }
     }

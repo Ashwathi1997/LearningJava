@@ -8,15 +8,13 @@ public class Lab111_Calculate_Factorial_IQ {
         System.out.println("Eneter the number");
         int n = sc.nextInt();
 
-        int fact=1;
-        if(n==0)
-        {
-            fact=1; // edge case
+        int fact = 1;
+        if (n == 0) {
+            fact = 1; // edge case
         }
         //for (int i = 1; i <=n ; i++) -> both works
-        for (int i = n; i>=1; i--)
-        {
-                    fact = fact*i;
+        for (int i = n; i >= 1; i--) {
+            fact = fact * i;
         }
         System.out.println(fact);
 

@@ -5,7 +5,7 @@ public class Lab054_TypeCasting_0 {
         byte b = 10;
         int a = b; // Valid syntax - implicit casting -> widening
 
-        int c =300;
+        int c = 300;
         //byte d = c; not possible
         //type casting is a process of converting
         //a value fom one datatype to another

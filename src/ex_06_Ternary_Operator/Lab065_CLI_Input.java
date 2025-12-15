@@ -15,6 +15,5 @@ public class Lab065_CLI_Input {
         System.out.println(input5);
 
 
-
     }
 }

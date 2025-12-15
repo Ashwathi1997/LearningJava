@@ -3,7 +3,7 @@ package ex_01_Java_Basics;
 public class Lab020_Numerics_Data_Types {
     public static void main(String[] args) {
         byte b = 10;
-        short ss =10;
+        short ss = 10;
         int i = 10;
         char c = 'A';
 

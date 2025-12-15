@@ -9,12 +9,9 @@ public class Lab075_If {
         int age = Integer.parseInt(user_input);
         System.out.println(age);
 
-        if(age>18)
-        {
+        if (age > 18) {
             System.out.println("Yes, you can vote !");
-        }
-
-        else {
+        } else {
             System.out.println("Cannot vote");
         }
     }

@@ -11,15 +11,14 @@ public class Lab022_PrintF {
         System.out.print(a);
         System.out.print(b);
 
-        System.out.printf("Value of a is %d",a);
+        System.out.printf("Value of a is %d", a);
         System.out.println();
-        System.out.printf("Value of b is %d",b);
+        System.out.printf("Value of b is %d", b);
 
         //%d -> int, short, char, long etc
         //%s -> string
         //%f -> float, double
         //%b -> boolean
-
 
 
     }

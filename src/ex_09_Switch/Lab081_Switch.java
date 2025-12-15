@@ -1,6 +1,5 @@
 package ex_09_Switch;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Lab081_Switch {
@@ -8,11 +7,9 @@ public class Lab081_Switch {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number within 1 to 7");
 
-        if(sc.hasNextInt())
-        {
+        if (sc.hasNextInt()) {
             int day = sc.nextInt();
-            switch(day)
-            {
+            switch (day) {
                 case 1:
                     System.out.println("Sunday");
                     break;
@@ -38,8 +35,7 @@ public class Lab081_Switch {
                     System.out.println("Please Enter Integer within 1 to 7");
 
             }
-        }
-        else {
+        } else {
             System.out.println("Enter Integer within 1 to 7");
         }
     }

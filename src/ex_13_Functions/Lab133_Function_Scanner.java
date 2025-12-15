@@ -11,11 +11,12 @@ public class Lab133_Function_Scanner {
 
         System.out.println("Enter second integer: ");
         b = sc.nextInt();
-        int result = sum_of_two_number1(a,b);
+        int result = sum_of_two_number1(a, b);
         System.out.println(result);
     }
+
     static int sum_of_two_number1(int a, int b) // with parameter
     {
-        return a+b;
+        return a + b;
     }
 }
