@@ -3,7 +3,7 @@ package ex_02_Java_Practise_Tasks;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Lab018_doubt {
+public class Lab018_Practise {
     public static void main(String[] args) {
         Random random = new Random();
         int numberToGuess = random.nextInt(101);

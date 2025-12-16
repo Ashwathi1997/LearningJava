@@ -20,18 +20,20 @@ public class Lab025_Reverse_No_For_Loop {
             }
             else
             {
-                int reversed_number=0;
-                Array reversed_array ;
-                Array[] number = new Array[input];
-                int j = number.length-1;
-                for (int i = 0; i < number.length-1 ; i++) {
+                int reverse = 0 ;
+                int decimal = 0;
 
-                   // reversed_array[i] = number[j];
-                    j--;
+
+                {
+                 decimal=input%10;
+                input=input/10;
+                reverse=reverse+decimal;
                 }
-                //System.out.println(reversed_array);
+                System.out.println(reverse);
             }
 
+
+    // not complete yet
         }
     }
 }

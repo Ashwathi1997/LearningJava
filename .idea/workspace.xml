@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Oct 4 and 5 content">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab005_Reverse_String_WO_Inbuild_function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab006_Count_No_Of_Words_InString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab007_Array_through_for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab008_Pattern_Right_Angle_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab009_Pattern_Reverse_Right_Angle_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab010_Maximum_Miniumum_Number_In_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab011_Second_Highest_Number_In_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab012_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab013_Fibonacci_Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab014_Count_Vowels_Consonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab015_First_Letter_Of_each_word_In_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab016_Prime_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab155_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab156_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab157_Arrays_Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab158_Arrays_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab159_Arrays_Max_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab160_Array_User_Inputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab161_Array_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab162_Sum_Of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab163_Interview_Q_2nd_Highest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab164_String_CLI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab165_2D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab166_2D_P0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab167_2D_Array_Iterate_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab168_2D_Right_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab169_2D_Reverse_Right_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab170_2D_Left_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab171_2nd_highest_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab172_3D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Arrays/Lab173_BufferReaderInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Lab174_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Lab174_Person_Details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Lab175_ATBX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab005_Doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab006_Doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab007_Doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab008_Doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab009_Doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab010_doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab011_doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab012_doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab013_doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab014_doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab015_doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab016_doubt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab017_doubt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab017_doubt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab018_doubt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab018_Practise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab025_Reverse_No_For_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab025_Reverse_No_For_Loop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ashwathi1997"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ashwathi1997/LearningJava.git",
+    "accountId": "cc7c0da6-a919-4a7c-a851-04be8ed81151"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="36iC0fN5U9aiDE4LDjWQUTgbrOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab005_Reverse_String_WO_Inbuild.executor": "Run",
+    "Application.Lab006_Count_No_Of_Words_InString.executor": "Run",
+    "Application.Lab007_Array_through_for_loop.executor": "Run",
+    "Application.Lab008_Pattern_Right_Angle_Triangle.executor": "Run",
+    "Application.Lab009_Pattern_Reverse_Right_Angle_Triangle.executor": "Run",
+    "Application.Lab010_Common_Math.executor": "Run",
+    "Application.Lab010_Maximum_Miniumum_Number_In_array.executor": "Run",
+    "Application.Lab011_Second_Highest_Number_In_array.executor": "Run",
+    "Application.Lab012_Palindrome.executor": "Run",
+    "Application.Lab013_Fibonacci_Series.executor": "Run",
+    "Application.Lab014_Count_Vowels_Consonants.executor": "Run",
+    "Application.Lab018_doubt.executor": "Run",
+    "Application.Lab023_Fizz_Buzz.executor": "Run",
+    "Application.Lab024_Grade_Calculator.executor": "Run",
+    "Application.Lab025_Reverse_No_For_Loop.executor": "Run",
+    "Application.Lab026_Final_Example.executor": "Run",
+    "Application.Lab138_string_functions.executor": "Run",
+    "Application.Lab144_String_Example3.executor": "Run",
+    "Application.Lab145_StringExamples1.executor": "Run",
+    "Application.Lab146_String_Functions.executor": "Run",
+    "Application.Lab147_StringBuilder_Vs_StringBuffer.executor": "Run",
+    "Application.Lab148_SB.executor": "Run",
+    "Application.Lab152_Program.executor": "Run",
+    "Application.Lab159_Arrays_Max_Min.executor": "Run",
+    "Application.Lab160_Array_User_Inputs.executor": "Run",
+    "Application.Lab161_Array_Reverse.executor": "Run",
+    "Application.Lab164_String_CLI.executor": "Run",
+    "Application.Lab167_2D_Array_Iterate_For_Loop.executor": "Run",
+    "Application.Lab168_2D_Left_Triangle.executor": "Run",
+    "Application.Lab169_2D_Reverse_Left_Triangle.executor": "Run",
+    "Application.Lab169_2D_Reverse_Right_Triangle.executor": "Debug",
+    "Application.Lab170_2D_Left_Triangle.executor": "Run",
+    "Application.Lab_155_Arrays.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SDET - The Testing Academy/IntelliJ Project/LearningJava"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Lab025_Reverse_No_For_Loop">
+    <configuration name="Lab006_Count_No_Of_Words_InString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab006_Count_No_Of_Words_InString" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab012_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab012_Palindrome" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab013_Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab013_Fibonacci_Series" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab014_Count_Vowels_Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab014_Count_Vowels_Consonants" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab025_Reverse_No_For_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab025_Reverse_No_For_Loop" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application." />
+      <item itemvalue="Application.Lab006_Count_No_Of_Words_InString" />
+      <item itemvalue="Application.Lab012_Palindrome" />
+      <item itemvalue="Application.Lab013_Fibonacci_Series" />
+      <item itemvalue="Application.Lab014_Count_Vowels_Consonants" />
+      <item itemvalue="Application.Lab025_Reverse_No_For_Loop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab025_Reverse_No_For_Loop" />
+        <item itemvalue="Application.Lab006_Count_No_Of_Words_InString" />
+        <item itemvalue="Application.Lab014_Count_Vowels_Consonants" />
+        <item itemvalue="Application.Lab013_Fibonacci_Series" />
+        <item itemvalue="Application.Lab012_Palindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="" />
+      <created>1765479783957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765479783957</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Oct 4 and 5 content">
+      <option name="closed" value="true" />
+      <created>1765824105678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765824105678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Oct 4 and 5 content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct 4 and 5 content" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_16_Arrays/Lab169_2D_Reverse_Right_Triangle.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_16_Arrays/Lab169_2D_Reverse_Right_Triangle.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_16_Arrays/Lab169_2D_Reverse_Right_Triangle.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
