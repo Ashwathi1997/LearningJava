@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Content from Oct 11">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab025_CodingC1_Declare_Initialize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Coding challenge 1">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab027_CodingC2_Arith_Assign_Op.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     "Application.Lab025_CodingC1_Declare_Initialize.executor": "Run",
     "Application.Lab025_Reverse_No_For_Loop.executor": "Run",
     "Application.Lab026_Final_Example.executor": "Run",
+    "Application.Lab027_CodingC2_Arith_Assign_Op.executor": "Run",
     "Application.Lab035_Unary_Operator.executor": "Run",
     "Application.Lab066_ID_Op_Pre.executor": "Run",
     "Application.Lab138_string_functions.executor": "Run",
@@ -95,9 +95,22 @@
     "last_opened_file_path": "D:/SDET - The Testing Academy/IntelliJ Project/LearningJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab026_CodingC1_Declare_Initialize">
+  <component name="RunManager" selected="Application.Lab027_CodingC2_Arith_Assign_Op">
     <configuration name="Lab026_CodingC1_Declare_Initialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab026_CodingC1_Declare_Initialize" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab027_CodingC2_Arith_Assign_Op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab027_CodingC2_Arith_Assign_Op" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -135,19 +148,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab180_car_details" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_OOPs_Constructor.Lab180_car_details" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_OOPs_Constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Lab185_Main_Single_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_19_OOPs_Inheritance.SingleInheritance.Lab185_Main_Single_Inheritance" />
       <module name="LearningJava" />
@@ -164,18 +164,18 @@
     <list>
       <item itemvalue="Application." />
       <item itemvalue="Application.Lab026_CodingC1_Declare_Initialize" />
+      <item itemvalue="Application.Lab027_CodingC2_Arith_Assign_Op" />
       <item itemvalue="Application.Lab035_Unary_Operator" />
       <item itemvalue="Application.Lab066_ID_Op_Pre" />
-      <item itemvalue="Application.Lab180_car_details" />
       <item itemvalue="Application.Lab185_Main_Single_Inheritance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab027_CodingC2_Arith_Assign_Op" />
         <item itemvalue="Application.Lab026_CodingC1_Declare_Initialize" />
         <item itemvalue="Application.Lab066_ID_Op_Pre" />
         <item itemvalue="Application.Lab035_Unary_Operator" />
         <item itemvalue="Application.Lab185_Main_Single_Inheritance" />
-        <item itemvalue="Application.Lab180_car_details" />
       </list>
     </recent_temporary>
   </component>
@@ -211,14 +211,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765922591067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Coding challenge 1">
+      <option name="closed" value="true" />
+      <created>1765955750554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765955750554</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Coding challenge 1">
+      <option name="closed" value="true" />
+      <created>1765955808472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765955808473</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Oct 4 and 5 content" />
     <MESSAGE value="Content from Oct 5 and 11" />
     <MESSAGE value="Content from Oct 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Content from Oct 11" />
+    <MESSAGE value="Coding challenge 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding challenge 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
