@@ -11,9 +11,13 @@ public class Lab031_CodingC6_No_Classification {
         System.out.println("Enter a number to check if it is positive or negative: ");
         int input = sc.nextInt();
 
-        if(input>=0)
+        if(input>0)
         {
             System.out.println(input+" is positive");
+        }
+        else if(input == 0)
+        {
+            System.out.println(input+" is zero");
         }
         else
         {
