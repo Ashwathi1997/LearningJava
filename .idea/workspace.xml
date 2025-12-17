@@ -4,35 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Content from Oct 5 and 11">
-      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Lab176_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Lab177_Cats_OOPs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/StudentX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Constructor/Lab178_OOPs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Constructor/Lab179_OOPs_Con.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Constructor/Lab180_Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Constructor/Lab180_car_details.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Constructor/Lab181_LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Constructor/Lab181_LoginPageDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Constructor/Lab182_Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPs_Constructor/Lab183_Instance_Local.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/HierarchicalInheritance/Lab188_Akhil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/HierarchicalInheritance/Lab188_Ashwathi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/HierarchicalInheritance/Lab188_Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/HierarchicalInheritance/Lab188_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/MultilevelInheritance/Lab187_Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/MultilevelInheritance/Lab187_GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/MultilevelInheritance/Lab187_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/MultilevelInheritance/Lab187_Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/MultipleInheritance/Lab186_Father1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/MultipleInheritance/Lab186_Father2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/MultipleInheritance/Lab186_Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/SingleInheritance/Lab184_Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/SingleInheritance/Lab184_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/SingleInheritance/Lab184_Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/SingleInheritance/Lab185_Main_Single_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/SingleInheritance/Lab185_Real_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19_OOPs_Inheritance/SingleInheritance/Lab185_TestCase1.java" afterDir="false" />
+    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Content from Oct 11">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab025_CodingC1_Declare_Initialize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +60,11 @@
     "Application.Lab018_doubt.executor": "Run",
     "Application.Lab023_Fizz_Buzz.executor": "Run",
     "Application.Lab024_Grade_Calculator.executor": "Run",
+    "Application.Lab025_CodingC1_Declare_Initialize.executor": "Run",
     "Application.Lab025_Reverse_No_For_Loop.executor": "Run",
     "Application.Lab026_Final_Example.executor": "Run",
+    "Application.Lab035_Unary_Operator.executor": "Run",
+    "Application.Lab066_ID_Op_Pre.executor": "Run",
     "Application.Lab138_string_functions.executor": "Run",
     "Application.Lab144_String_Example3.executor": "Run",
     "Application.Lab145_StringExamples1.executor": "Run",
@@ -119,13 +95,13 @@
     "last_opened_file_path": "D:/SDET - The Testing Academy/IntelliJ Project/LearningJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab185_Main_Single_Inheritance">
-    <configuration name="Lab177_Cats_OOPs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_17_OOPs.Lab177_Cats_OOPs" />
+  <component name="RunManager" selected="Application.Lab025_CodingC1_Declare_Initialize">
+    <configuration name="Lab025_CodingC1_Declare_Initialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab025_CodingC1_Declare_Initialize" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_17_OOPs.*" />
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab179_OOPs_Con" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_OOPs_Constructor.Lab179_OOPs_Con" />
+    <configuration name="Lab035_Unary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab035_Unary_Operator" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_OOPs_Constructor.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab066_ID_Op_Pre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement.Lab066_ID_Op_Pre" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_Increment_Decrement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,19 +137,6 @@
     </configuration>
     <configuration name="Lab180_car_details" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_18_OOPs_Constructor.Lab180_car_details" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_OOPs_Constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab181_LoginPageDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_OOPs_Constructor.Lab181_LoginPageDetails" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -187,19 +163,19 @@
     </configuration>
     <list>
       <item itemvalue="Application." />
-      <item itemvalue="Application.Lab177_Cats_OOPs" />
-      <item itemvalue="Application.Lab179_OOPs_Con" />
+      <item itemvalue="Application.Lab025_CodingC1_Declare_Initialize" />
+      <item itemvalue="Application.Lab035_Unary_Operator" />
+      <item itemvalue="Application.Lab066_ID_Op_Pre" />
       <item itemvalue="Application.Lab180_car_details" />
-      <item itemvalue="Application.Lab181_LoginPageDetails" />
       <item itemvalue="Application.Lab185_Main_Single_Inheritance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab025_CodingC1_Declare_Initialize" />
+        <item itemvalue="Application.Lab066_ID_Op_Pre" />
+        <item itemvalue="Application.Lab035_Unary_Operator" />
         <item itemvalue="Application.Lab185_Main_Single_Inheritance" />
         <item itemvalue="Application.Lab180_car_details" />
-        <item itemvalue="Application.Lab181_LoginPageDetails" />
-        <item itemvalue="Application.Lab179_OOPs_Con" />
-        <item itemvalue="Application.Lab177_Cats_OOPs" />
       </list>
     </recent_temporary>
   </component>
@@ -227,13 +203,22 @@
       <option name="project" value="LOCAL" />
       <updated>1765915274350</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Content from Oct 11">
+      <option name="closed" value="true" />
+      <created>1765922591067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765922591067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Oct 4 and 5 content" />
     <MESSAGE value="Content from Oct 5 and 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Content from Oct 5 and 11" />
+    <MESSAGE value="Content from Oct 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Content from Oct 11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
