@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Coding challenge 10">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab36_CodingC11_PrintNo_UsingForLoop.java" afterDir="false" />
+    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Coding challenge 11">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab37_CodingC12_Factorial_Calculator_WhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +95,7 @@
     "Application.Lab185_Main.executor": "Run",
     "Application.Lab35_CodingC10_SimpleCalculator.executor": "Run",
     "Application.Lab36_CodingC11_PrintNo_UsingForLoop.executor": "Run",
+    "Application.Lab37_CodingC12_Factorial_Calculator_WhileLoop.executor": "Run",
     "Application.Lab_155_Arrays.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -104,20 +105,7 @@
     "last_opened_file_path": "D:/SDET - The Testing Academy/IntelliJ Project/LearningJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab36_CodingC11_PrintNo_UsingForLoop">
-    <configuration name="Lab032_CodingC7_Largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab032_CodingC7_Largest_Number" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab37_CodingC12_Factorial_Calculator_WhileLoop">
     <configuration name="Lab033_CodingC8_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab033_CodingC8_LeapYear" />
       <module name="LearningJava" />
@@ -170,21 +158,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab37_CodingC12_Factorial_Calculator_WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab37_CodingC12_Factorial_Calculator_WhileLoop" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application." />
-      <item itemvalue="Application.Lab032_CodingC7_Largest_Number" />
       <item itemvalue="Application.Lab033_CodingC8_LeapYear" />
       <item itemvalue="Application.Lab034_CodingC9_DayOfTheWeek_SwitchCase" />
       <item itemvalue="Application.Lab35_CodingC10_SimpleCalculator" />
       <item itemvalue="Application.Lab36_CodingC11_PrintNo_UsingForLoop" />
+      <item itemvalue="Application.Lab37_CodingC12_Factorial_Calculator_WhileLoop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab37_CodingC12_Factorial_Calculator_WhileLoop" />
         <item itemvalue="Application.Lab36_CodingC11_PrintNo_UsingForLoop" />
         <item itemvalue="Application.Lab35_CodingC10_SimpleCalculator" />
         <item itemvalue="Application.Lab034_CodingC9_DayOfTheWeek_SwitchCase" />
         <item itemvalue="Application.Lab033_CodingC8_LeapYear" />
-        <item itemvalue="Application.Lab032_CodingC7_Largest_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766000848039</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Coding challenge 11">
+      <option name="closed" value="true" />
+      <created>1766001080510</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1766001080510</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -364,7 +373,8 @@
     <MESSAGE value="Coding challenge 8" />
     <MESSAGE value="Coding challenge 9" />
     <MESSAGE value="Coding challenge 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding challenge 10" />
+    <MESSAGE value="Coding challenge 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding challenge 11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
