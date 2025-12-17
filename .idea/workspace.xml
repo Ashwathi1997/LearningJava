@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Coding challenge 4">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab030_CodingC5_Operator_Precendence_TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Coding challenge 5">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab031_CodingC6_No_Classification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
     "Application.Lab028_CodingC3_Comp_Log_Op.executor": "Run",
     "Application.Lab029_CodingC4_Incre_Decre_Op.executor": "Run",
     "Application.Lab030_CodingC5_Operator_Precendence_TypeCasting.executor": "Run",
+    "Application.Lab031_CodingC6_No_Classification.executor": "Run",
     "Application.Lab035_Unary_Operator.executor": "Run",
     "Application.Lab066_ID_Op_Pre.executor": "Run",
     "Application.Lab138_string_functions.executor": "Run",
@@ -99,20 +99,7 @@
     "last_opened_file_path": "D:/SDET - The Testing Academy/IntelliJ Project/LearningJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab030_CodingC5_Operator_Precendence_TypeCasting">
-    <configuration name="Lab026_CodingC1_Declare_Initialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab026_CodingC1_Declare_Initialize" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab031_CodingC6_No_Classification">
     <configuration name="Lab027_CodingC2_Arith_Assign_Op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab027_CodingC2_Arith_Assign_Op" />
       <module name="LearningJava" />
@@ -165,21 +152,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab031_CodingC6_No_Classification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab031_CodingC6_No_Classification" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application." />
-      <item itemvalue="Application.Lab026_CodingC1_Declare_Initialize" />
       <item itemvalue="Application.Lab027_CodingC2_Arith_Assign_Op" />
       <item itemvalue="Application.Lab028_CodingC3_Comp_Log_Op" />
       <item itemvalue="Application.Lab029_CodingC4_Incre_Decre_Op" />
       <item itemvalue="Application.Lab030_CodingC5_Operator_Precendence_TypeCasting" />
+      <item itemvalue="Application.Lab031_CodingC6_No_Classification" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab031_CodingC6_No_Classification" />
         <item itemvalue="Application.Lab030_CodingC5_Operator_Precendence_TypeCasting" />
         <item itemvalue="Application.Lab029_CodingC4_Incre_Decre_Op" />
         <item itemvalue="Application.Lab028_CodingC3_Comp_Log_Op" />
         <item itemvalue="Application.Lab027_CodingC2_Arith_Assign_Op" />
-        <item itemvalue="Application.Lab026_CodingC1_Declare_Initialize" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765957805430</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Coding challenge 5">
+      <option name="closed" value="true" />
+      <created>1765996128864</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765996128864</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Coding challenge 5">
+      <option name="closed" value="true" />
+      <created>1765996173475</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765996173476</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,7 +290,8 @@
     <MESSAGE value="Coding challenge 2" />
     <MESSAGE value="Coding challenge 3" />
     <MESSAGE value="Coding challenge 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding challenge 4" />
+    <MESSAGE value="Coding challenge 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding challenge 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
