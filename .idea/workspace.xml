@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Coding challenge 6">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab033_CodingC8_LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="11b9456a-9c2c-4574-9484-d02165c261ce" name="Changes" comment="Coding challenge 8">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Practise_Tasks/Lab034_CodingC9_DayOfTheWeek_SwitchCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,7 @@
     "Application.Lab031_CodingC6_No_Classification.executor": "Run",
     "Application.Lab032_CodingC7_Largest_Number.executor": "Run",
     "Application.Lab033_CodingC8_LeapYear.executor": "Run",
+    "Application.Lab034_CodingC9_DayOfTheWeek_SwitchCase.executor": "Run",
     "Application.Lab035_Unary_Operator.executor": "Run",
     "Application.Lab066_ID_Op_Pre.executor": "Run",
     "Application.Lab138_string_functions.executor": "Run",
@@ -102,20 +102,7 @@
     "last_opened_file_path": "D:/SDET - The Testing Academy/IntelliJ Project/LearningJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab033_CodingC8_LeapYear">
-    <configuration name="Lab029_CodingC4_Incre_Decre_Op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab029_CodingC4_Incre_Decre_Op" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab034_CodingC9_DayOfTheWeek_SwitchCase">
     <configuration name="Lab030_CodingC5_Operator_Precendence_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab030_CodingC5_Operator_Precendence_TypeCasting" />
       <module name="LearningJava" />
@@ -168,21 +155,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab034_CodingC9_DayOfTheWeek_SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab034_CodingC9_DayOfTheWeek_SwitchCase" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_Java_Practise_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application." />
-      <item itemvalue="Application.Lab029_CodingC4_Incre_Decre_Op" />
       <item itemvalue="Application.Lab030_CodingC5_Operator_Precendence_TypeCasting" />
       <item itemvalue="Application.Lab031_CodingC6_No_Classification" />
       <item itemvalue="Application.Lab032_CodingC7_Largest_Number" />
       <item itemvalue="Application.Lab033_CodingC8_LeapYear" />
+      <item itemvalue="Application.Lab034_CodingC9_DayOfTheWeek_SwitchCase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab034_CodingC9_DayOfTheWeek_SwitchCase" />
         <item itemvalue="Application.Lab033_CodingC8_LeapYear" />
         <item itemvalue="Application.Lab032_CodingC7_Largest_Number" />
         <item itemvalue="Application.Lab031_CodingC6_No_Classification" />
         <item itemvalue="Application.Lab030_CodingC5_Operator_Precendence_TypeCasting" />
-        <item itemvalue="Application.Lab029_CodingC4_Incre_Decre_Op" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +298,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765998409742</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Coding challenge 6">
+      <option name="closed" value="true" />
+      <created>1765999116601</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765999116602</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Coding challenge 6">
+      <option name="closed" value="true" />
+      <created>1765999133241</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765999133241</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Coding challenge 8">
+      <option name="closed" value="true" />
+      <created>1765999146084</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765999146084</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -311,7 +335,8 @@
     <MESSAGE value="Coding challenge 4" />
     <MESSAGE value="Coding challenge 5" />
     <MESSAGE value="Coding challenge 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding challenge 6" />
+    <MESSAGE value="Coding challenge 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding challenge 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
