@@ -95,9 +95,9 @@
     "last_opened_file_path": "D:/SDET - The Testing Academy/IntelliJ Project/LearningJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab025_CodingC1_Declare_Initialize">
-    <configuration name="Lab025_CodingC1_Declare_Initialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab025_CodingC1_Declare_Initialize" />
+  <component name="RunManager" selected="Application.Lab026_CodingC1_Declare_Initialize">
+    <configuration name="Lab026_CodingC1_Declare_Initialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_Java_Practise_Tasks.Lab026_CodingC1_Declare_Initialize" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -163,7 +163,7 @@
     </configuration>
     <list>
       <item itemvalue="Application." />
-      <item itemvalue="Application.Lab025_CodingC1_Declare_Initialize" />
+      <item itemvalue="Application.Lab026_CodingC1_Declare_Initialize" />
       <item itemvalue="Application.Lab035_Unary_Operator" />
       <item itemvalue="Application.Lab066_ID_Op_Pre" />
       <item itemvalue="Application.Lab180_car_details" />
@@ -171,7 +171,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab025_CodingC1_Declare_Initialize" />
+        <item itemvalue="Application.Lab026_CodingC1_Declare_Initialize" />
         <item itemvalue="Application.Lab066_ID_Op_Pre" />
         <item itemvalue="Application.Lab035_Unary_Operator" />
         <item itemvalue="Application.Lab185_Main_Single_Inheritance" />

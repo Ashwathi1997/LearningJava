@@ -1,6 +1,6 @@
 package ex_02_Java_Practise_Tasks;
 
-public class Lab025_CodingC1_Declare_Initialize {
+public class Lab026_CodingC1_Declare_Initialize {
     public static void main(String[] args) {
         int Integer = 25;
         double Double = 3.14;
